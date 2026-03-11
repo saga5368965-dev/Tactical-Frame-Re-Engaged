@@ -1,0 +1,6 @@
+{
+  "entity.tf_reengaged.tf44": "TF-44 Nephthys",
+  "item.tf_reengaged.tf44_spawn_egg": "TF-44 Nephthys Spawn Egg",
+  "death.attack.tf44": "%1$s was harvested by Nephthys",
+  "death.attack.tf44.item": "%1$s was reaped by %2$s"
+}

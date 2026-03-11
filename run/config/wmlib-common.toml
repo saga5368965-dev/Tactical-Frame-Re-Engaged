@@ -1,0 +1,28 @@
+#开启后子弹命中会摧毁脆弱方块
+bulletDestroy = true
+#开启后爆炸会摧毁方块
+explosionDestroy = true
+#开启后手榴弹会被友军单位阻挡
+grenadeHitFriend = false
+#开启后会显示命中信息同时播放命中音效
+hitInformation = true
+#命中信息显示的 X坐标偏移量
+#Range: -8000 ~ 8000
+hit_icon_x = 0
+#命中信息显示的 Y坐标偏移量
+#Range: -8000 ~ 8000
+hit_icon_y = 0
+#命中图标的 X坐标偏移量
+#Range: -8000 ~ 8000
+hit_infor_x = 0
+#命中图标的 Y坐标偏移量
+#Range: -8000 ~ 8000
+hit_infor_y = 0
+#视角震动效果的总幅度
+#Range: 0 ~ 1000
+shock_size = 100
+#开启后爆炸会生成闪光方块
+explosionFlash = true
+#开启后会启用自定义的着色器,关闭则会将一些渲染更改为原版的着色器以更好的兼容光影
+useCustomShaders = true
+

@@ -1,0 +1,12 @@
+{
+  "entity.tf_reengaged.nephthys": "TF-44ネフティス",
+  "entity.tf_reengaged.enemy_slash_wide": "拡散斬撃波",
+  "entity.tf_reengaged.enemy_slash_fragment": "斬撃の破片",
+
+  "death.attack.tf_reengaged.slash": "%1$sはネフティスの斬撃によって切り裂かれた",
+  "death.attack.tf_reengaged.fragment": "%1$sはエネルギー弾の藻屑となった",
+
+  "subtitles.entity.tf_reengaged.nephthys.ambient": "ネフティス：駆動音",
+  "subtitles.entity.tf_reengaged.nephthys.hurt": "ネフティス：装甲に被弾",
+  "subtitles.entity.tf_reengaged.nephthys.death": "ネフティス：大爆発"
+}

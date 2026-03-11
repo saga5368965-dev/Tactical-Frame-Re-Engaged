@@ -1,0 +1,29 @@
+{
+  "tfhurt": {
+    "category": "hostile",
+    "sounds": [
+      "tf_reengaged:tfhurt"
+    ]
+  },
+  "tfrobotfly": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "tf_reengaged:tfrobotfly",
+        "stream": true
+      }
+    ]
+  },
+  "tfsay1": {
+    "category": "hostile",
+    "sounds": [ "tf_reengaged:tfsay1" ]
+  },
+  "tfsay2": {
+    "category": "hostile",
+    "sounds": [ "tf_reengaged:tfsay2" ]
+  },
+  "tfsay3": {
+    "category": "hostile",
+    "sounds": [ "tf_reengaged:tfsay3" ]
+  }
+}

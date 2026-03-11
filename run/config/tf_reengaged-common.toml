@@ -1,0 +1,22 @@
+
+#Nefthys (TF44) Settings
+[nefthys]
+	#Max Health of Nefthys
+	#Range: 1.0 ~ 10000.0
+	maxHealth = 300.0
+	#Movement speed of Nefthys
+	#Range: 0.0 ~ 2.0
+	moveSpeed = 0.35
+	#Attack damage of Nefthys
+	#Range: 0.0 ~ 1000.0
+	attackDamage = 15.0
+
+#Animation Settings
+[animations]
+	#Wing flap speed during movement
+	#Range: 0.0 ~ 2.0
+	wingSpeedFly = 0.25
+	#Wing flap speed during idle
+	#Range: 0.0 ~ 1.0
+	wingSpeedIdle = 0.04
+

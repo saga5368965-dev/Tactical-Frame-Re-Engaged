@@ -1,0 +1,21 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-01-25 17:56:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-01-25 17:56:09 +0900"
+    },
+    "done": false
+  },
+  "wmlib:recipes/building_blocks/wmlib_melon": {
+    "criteria": {
+      "has_melon": "2026-01-28 09:53:32 +0900"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
